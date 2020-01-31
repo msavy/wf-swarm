@@ -62,7 +62,7 @@
     <version.license-maven-plugin>1.13</version.license-maven-plugin>
     <version.wildfly-licenses-plugin>1.0.1</version.wildfly-licenses-plugin>
 
-    <version.checkstyle>7.4</version.checkstyle>
+    <version.checkstyle>8.29</version.checkstyle>
 
     <maven.min.version>3.2.1</maven.min.version>
 
