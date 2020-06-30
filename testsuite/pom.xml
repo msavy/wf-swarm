@@ -35,7 +35,7 @@
     <version.resteasy>3.0.19.Final</version.resteasy>
     <version.remoting>2.0.1.Final</version.remoting>
     <version.wildfly-controller>2.2.1.Final</version.wildfly-controller>
-    <version.jackson>2.7.4</version.jackson>
+    <version.jackson>2.9.10.5</version.jackson>
     <httpclient.version>4.5</httpclient.version>
     <fluent-hc.version>4.5</fluent-hc.version>
   </properties>
