@@ -38,7 +38,7 @@
     <version.org.jboss.shrinkwrap>1.2.6</version.org.jboss.shrinkwrap>
     <version.org.jboss.shrinkwrap.descriptors>2.0.0</version.org.jboss.shrinkwrap.descriptors>
     <version.fest-assert>1.4</version.fest-assert>
-    <version.junit>4.12</version.junit>
+    <version.junit>4.13.1</version.junit>
     <version.mockito>2.2.28</version.mockito>
 
     <!-- OpenTracing related versions. Needed at this level because it's used by testsuite -->
