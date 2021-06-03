@@ -36,7 +36,7 @@
    <properties>
       <!-- TCK needs a JAX-RS Client -->
       <!-- Override 3.0.19 due to some odd dependency problems -->
-      <version.resteasy>3.1.4.Final</version.resteasy>
+      <version.resteasy>4.5.7.Final</version.resteasy>
    </properties>
 
    <dependencies>
